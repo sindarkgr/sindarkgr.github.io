@@ -1,0 +1,37 @@
+.navbar {
+    margin: 0px 0px 0px 0px;
+    padding: 1px 1px 1px 20px;
+    border: #6ac64b;
+}
+.abc {
+    margin-bottom: 0.5px;
+}
+.progress {
+    width: 300px;
+    height: 10px;
+    float: right;
+}
+.CV {
+    width: 300px;
+    height: 10px;
+    float: right;
+    margin-right: 1.5rem;
+    margin-top: 0px;
+}
+.aboutme {
+    display: inline;
+    font-family: 'Charmonman', cursive;
+    font-family: 'Indie Flower', cursive;
+    float: left;
+    font-size: 5px;
+}
+.aboutme h3 {
+    display: inline;
+    text-align: center;
+}
+.about .hinh {
+    display: inline;
+}
+.pagination {
+    align-items: unset;
+}
